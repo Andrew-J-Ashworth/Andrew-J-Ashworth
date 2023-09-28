@@ -1,0 +1,3 @@
+- Andrew Ashworth
+- Missouri State University
+- I use my GitHub profile to display projects that I have completed
